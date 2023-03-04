@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Montserrat&display=swap');
+h1, h2, h3, h4, h5, h6, p{
+font-family: 'Montserrat', sans-serif;
+}
+.menu-slidebar{
+
+
+
+/*	padding-bottom: 100vh;*/
+
+	
+
+	width: 15vw;
+
+	height: 100vh;
+
+	
+
+	margin-top: auto;
+
+	margin-right: auto;
+
+
+
+	
+
+	background-color: blue;
+
+}
+
+.h1-rd{
+
+	font-size: 6.25vh;
+
+}
+
+.h2-rd{
+
+	font-size: 5.50vh;
+
+}
+
+.h3-rd{
+
+	font-size: 4.75vh;
+
+}
+
+.h4-rd{
+
+	font-size: 4vh;
+
+}
+
+.h5-rd{
+
+	font-size: 3.25vh;
+
+}
+
+.h6-rd{
+
+	font-size: 2.5vh;
+
+}

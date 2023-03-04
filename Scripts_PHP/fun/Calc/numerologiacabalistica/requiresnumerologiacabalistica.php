@@ -1,0 +1,16 @@
+<?php 
+require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/anopessoal.php'; require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/ciclosdevida.php';
+require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/coresfavoraveis.php'; require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/desafios.php';
+require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/destino.php'; require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/diapessoal.php';
+require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/dividascarmicas.php'; require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/graudeascensao.php';
+require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/harmoniaconjulgal.php'; require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/missao.php';
+require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/motivacao_impressao_expressao_etc.php'; require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/numeropsiquico.php';
+require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/primeironome.php'; require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/respostasubconsiente.php';
+require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/triangulosdavida.php'; require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/aptidoesepotencialidades.php'; 
+require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/diasfavoraveis.php'; require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/gerargrafico.php'; 
+require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/arcanos.php'; require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/locationchart.php';
+require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/mespessoal.php'; require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/momentosdecisivos.php';
+require$_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Construcao/Mapas/mapacabalistico.php'; require$_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Construcao/Pdfs/geradordepdf.php';
+require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Env/enviaremail.php'; require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Busca/bases/bases.php'; require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Calc/numerologiacabalistica/numerosharmonicos.php';
+require $_SERVER['DOCUMENT_ROOT'].'/mapasparavida/scripts_PHP/fun/Busca/numerologia/cabalistica/buscartxt.php';
+ ?>
