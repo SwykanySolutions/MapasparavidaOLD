@@ -54,7 +54,7 @@ include '../includes/conectar.php';
 // 	}else{ echo $sqlIns."retorou o erro"; }
 // }else{ echo "não foi possivel encontrar menhum Pedido"; } 
 
-calcular('Pablo Guilherme Leite de Souza', '2003-04-05', 1, 'Pablo Guilherme', 1, 'espanpc@gmail.com', $conn);
+calcular('Um nome qualquer', '2003-04-05', 1, 'Pablo Guilherme', 1, 'espanpc@gmail.com', $conn);
 
 ?>
 
